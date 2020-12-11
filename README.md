@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate Full Stack Developer from Germany</h3>
 
-- 🌱 I’m currently learning **Express-Node.js**
+- 🌱 I’m currently learning **Express-Node.js-Mongo DB**
 
 - 👨‍💻 All of my projects are available at [https://emrekrt1655.github.io/MyPortfolio/](https://emrekrt1655.github.io/MyPortfolio/)
 
