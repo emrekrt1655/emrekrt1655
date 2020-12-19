@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
 <h3 align="center">A passionate Full Stack Developer from Germany</h3>
+<h5  align="center"> ![](https://komarev.com/ghpvc/?username=emrekrt1655)</h5>
 
 - 🌱 I’m currently learning **Express-Node.js-Mongo DB**
 
