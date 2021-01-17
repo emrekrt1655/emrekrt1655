@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/emre-kurt-1542a2146/**
 
+<!-- <img src="./react_animation.gif" alt="react-native" width="20%" height="20%" align="right"> -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/emrekrt_16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="emrekrt_16" height="30" width="40" /></a>
