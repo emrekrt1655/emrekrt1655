@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrekrt1655&show_icons=true&locale=en&layout=compact" alt="emrekrt1655" /></p>
 <a href=https://spotify-recently-played-readme.vercel.app/api?user=f5deq4sy8ragqlbn3hbvitzdg&count=1>
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=f5deq4sy8ragqlbn3hbvitzdg&count=1" width="456" height="120" alt="Now Playing">
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=f5deq4sy8ragqlbn3hbvitzdg&count=1" width="200" height="100" alt="Now Playing">
 </a>
