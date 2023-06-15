@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrekrt1655&label=Profile%20views&color=0e75b6&style=flat" alt="emrekrt1655" /> </p>
 
-- 🌱 I’m currently learning **TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://emrekrt1655.github.io/MyPortfolio/](https://emrekrt1655.github.io/MyPortfolio/)
+- 🌱 I’m currently learning **Next.js 13**
 
 - 📝 I regulary write articles on [https://medium.com/@emrekurtt1655](https://medium.com/@emrekurtt1655)
 
-- 💬 Ask me about **Python, HTML, CSS, JavaScript, React,TypeScript**
+- 💬 Ask me about ** JavaScript,TypeScript, ReactJs, NodeJs, PrismaORM**
 
 - 📫 How to reach me **https://www.linkedin.com/in/emre-kurt-1542a2146/**
 
