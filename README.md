@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ** JavaScript,TypeScript, ReactJs, NodeJs, PrismaORM**
 
-- 📫 How to reach me **[https://www.linkedin.com/in/emre-kurt-1542a2146/](https://tr.linkedin.com/in/emrekrt16)**
+- 📫 How to reach me **https://tr.linkedin.com/in/emrekrt16**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
