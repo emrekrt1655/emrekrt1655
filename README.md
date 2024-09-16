@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@emrekurtt1655](https://medium.com/@emrekurtt1655)
 
-- 💬 Ask me about ** JavaScript,TypeScript, ReactJs, VueJs, NodeJs, PrismaORM**
+- 💬 Ask me about **JavaScript,TypeScript, ReactJs, VueJs, NodeJs, PrismaORM**
 
 - 📫 How to reach me **https://tr.linkedin.com/in/emrekrt16**
 
