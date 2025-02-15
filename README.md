@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emrekrt1655&label=Profile%20views&color=0e75b6&style=flat" alt="emrekrt1655" /> </p>
 
-- 🌱 I’m currently learning **PHP Symfony and Shopware**
+- 🌱 I’m currently learning **Vue.JS**
 
 - 📝 I regulary write articles on [https://medium.com/@emrekurtt1655](https://medium.com/@emrekurtt1655)
 
